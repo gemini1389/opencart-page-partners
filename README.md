@@ -30,6 +30,6 @@
 К сожалению, под рукой был только готовый сайт.
 
 ![Menu and List](https://raw.github.com/gemini1389/opencart-page-partners/master/README.img/admin_1.jpg)
-![Partners General Configuration](https://raw.github.com/gemini1389/opencart-page-partners/master/README.img/file_conf_1.jpg)
-![Partners Data Configuration](https://raw.github.com/gemini1389/opencart-page-partners/master/README.img/file_conf_2.jpg)
+![Partners General Configuration](https://raw.github.com/gemini1389/opencart-page-partners/master/README.img/admin_2.jpg)
+![Partners Data Configuration](https://raw.github.com/gemini1389/opencart-page-partners/master/README.img/admin_3.jpg)
 ![On Site](https://raw.github.com/gemini1389/opencart-page-partners/master/README.img/site.jpg)
